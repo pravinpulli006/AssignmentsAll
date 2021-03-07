@@ -1,0 +1,7 @@
+1,Avengers Age Of Ultron,Superhit,English,2017-03-25,Robert Downy jr,Chris Hemsworth,Chris Evans,9.2,50000000
+2,Indra,Superhit,Teludu,1999-02-04,Cheeranjivi,Sonali bendre,9.8,10000000000
+3,Ludo,Blockbuster,Hindi,2020-04-22,Pankaj Tripati,abhisheck bacchan,8.1,20000000
+4,Jalikattu,Average,Malyalam,2020-06-04,tamil gang1,tamil gang2,5.1,10000000
+5,Vikram Vedha,Blockbuster,Tamil,2018-02-01,Vijay Sethupathi,R madhavan,9.0,35000000000
+6,Rowdy,Rocking,Telugu,2015-12-12,Mohan babu,Manchu manoj,6.1,4.1E10
+7,Rakta Charitra,Thrilling,Telugu,2012-08-22,Surya Reddy,Prataap Reddy,Nagmani Reddy,9.5,3.2E14
